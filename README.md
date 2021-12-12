@@ -2,6 +2,7 @@
 - 👀 I’m interested in crypto and web dApps
 - 💞️ I’m looking to collaborate on projects in the Web3 space.
 - 📫 How to reach me ...
+- More to come...
 
 <!---
 wumbo3/wumbo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
